@@ -1,2 +1,14 @@
-# split
-Design for a mobile bill-splitting app
+![INTRODUCTION](https://github.com/markab4/split/blob/master/images/INTRODUCTION.png?raw=true "INTRODUCTION")
+![DESCRIPTION](https://github.com/markab4/split/blob/master/images/DESCRIPTION.png?raw=true "DESCRIPTION")
+![BRAND](https://github.com/markab4/split/blob/master/images/BRAND.png?raw=true "BRAND")
+![COLOUR](https://github.com/markab4/split/blob/master/images/COLOUR.png?raw=true "COLOUR")
+![ICONOGRAPHY](https://github.com/markab4/split/blob/master/images/ICONOGRAPHY.png?raw=true "ICONOGRAPHY")
+![PROCESS](https://github.com/markab4/split/blob/master/images/PROCESS.png?raw=true "PROCESS")
+![JOURNEY MAP](https://github.com/markab4/split/blob/master/images/JOURNEY%20MAP.png?raw=true "JOURNEY MAP")
+![WIREFLOW 1](https://github.com/markab4/split/blob/master/images/WIREFLOW%201.png?raw=true "WIREFLOW 1")
+![WIREFLOW 2](https://github.com/markab4/split/blob/master/images/WIREFLOW%202.png?raw=true "WIREFLOW 2")
+![ADD FRIENDS OR GROUPS](https://github.com/markab4/split/blob/master/images/HOW%20IT%20WORKS%201.png?raw=true "ADD FRIENDS OR GROUPS")
+![ADD NEW SPLITS](https://github.com/markab4/split/blob/master/images/HOW%20IT%20WORKS%202.png?raw=true "ADD NEW SPLITS")
+![AUTOMATIC CALCULATIONS](https://github.com/markab4/split/blob/master/images/HOW%20IT%20WORKS%203.png?raw=true "AUTOMATIC CALCULATIONS")
+![ORGANIZE TIMES TO SETTLE UP](https://github.com/markab4/split/blob/master/images/HOW%20IT%20WORKS%204.png?raw=true "ORGANIZE TIMES TO SETTLE UP")
+![OUTRO](https://github.com/markab4/split/blob/master/images/OUTRO.png?raw=true "OUTRO")
