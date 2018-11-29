@@ -1,6 +1,7 @@
 ![INTRODUCTION](https://github.com/markab4/split/blob/master/images/INTRODUCTION.png?raw=true "INTRODUCTION")
 ![DESCRIPTION](https://github.com/markab4/split/blob/master/images/DESCRIPTION.png?raw=true "DESCRIPTION")
 ![BRAND](https://github.com/markab4/split/blob/master/images/BRAND.png?raw=true "BRAND")
+![TYPOGRAPHY](https://github.com/markab4/split/blob/master/images/TYPOGRAPHY.png?raw=true "TYPOGRAPHY")
 ![COLOUR](https://github.com/markab4/split/blob/master/images/COLOUR.png?raw=true "COLOUR")
 ![ICONOGRAPHY](https://github.com/markab4/split/blob/master/images/ICONOGRAPHY.png?raw=true "ICONOGRAPHY")
 ![PROCESS](https://github.com/markab4/split/blob/master/images/PROCESS.png?raw=true "PROCESS")
