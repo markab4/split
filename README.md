@@ -1,5 +1,4 @@
 ![INTRODUCTION](https://github.com/markab4/split/blob/master/images/INTRODUCTION.png?raw=true "INTRODUCTION")
-![DESCRIPTION](https://github.com/markab4/split/blob/master/images/DESCRIPTION.png?raw=true "DESCRIPTION")
 ![BRAND](https://github.com/markab4/split/blob/master/images/BRAND.png?raw=true "BRAND")
 ![PROCESS](https://github.com/markab4/split/blob/master/images/PROCESS.png?raw=true "PROCESS")
 ![JOURNEY MAP](https://github.com/markab4/split/blob/master/images/JOURNEY%20MAP.png?raw=true "JOURNEY MAP")
