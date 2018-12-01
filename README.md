@@ -1,6 +1,6 @@
 ![INTRODUCTION](https://github.com/markab4/split/blob/master/images/INTRODUCTION.png?raw=true "INTRODUCTION")
-![WIREFLOW 1](https://github.com/markab4/split/blob/master/images/WIREFLOW%201.png?raw=true "WIREFLOW 1")
-![WIREFLOW 2](https://github.com/markab4/split/blob/master/images/WIREFLOW%202.png?raw=true "WIREFLOW 2")
+![WIREFLOW 1](https://github.com/markab4/split/blob/master/images/Add%20Split.gif?raw=true "ADD SPLIT WIREFLOW")
+![WIREFLOW 2](https://github.com/markab4/split/blob/master/images/Add%20Tax.gif?raw=true "ADD TAX WIREFLOW")
 ![ADD FRIENDS OR GROUPS](https://github.com/markab4/split/blob/master/images/HOW%20IT%20WORKS%201.png?raw=true "ADD FRIENDS OR GROUPS")
 ![ADD NEW SPLITS](https://github.com/markab4/split/blob/master/images/HOW%20IT%20WORKS%202.png?raw=true "ADD NEW SPLITS")
 ![AUTOMATIC CALCULATIONS](https://github.com/markab4/split/blob/master/images/HOW%20IT%20WORKS%203.png?raw=true "AUTOMATIC CALCULATIONS")
