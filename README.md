@@ -1,6 +1,4 @@
 ![INTRODUCTION](https://github.com/markab4/split/blob/master/images/INTRODUCTION.png?raw=true "INTRODUCTION")
-![PROCESS](https://github.com/markab4/split/blob/master/images/PROCESS.png?raw=true "PROCESS")
-![JOURNEY MAP](https://github.com/markab4/split/blob/master/images/JOURNEY%20MAP.png?raw=true "JOURNEY MAP")
 ![WIREFLOW 1](https://github.com/markab4/split/blob/master/images/WIREFLOW%201.png?raw=true "WIREFLOW 1")
 ![WIREFLOW 2](https://github.com/markab4/split/blob/master/images/WIREFLOW%202.png?raw=true "WIREFLOW 2")
 ![ADD FRIENDS OR GROUPS](https://github.com/markab4/split/blob/master/images/HOW%20IT%20WORKS%201.png?raw=true "ADD FRIENDS OR GROUPS")
