@@ -4,11 +4,15 @@
 
 ![CARD 2](https://github.com/markab4/split/blob/master/images/Card%202.png?raw=true)
 
-![WIREFLOW 1](https://github.com/markab4/split/blob/master/images/Add%20Split%20Part%201.gif?raw=true "ADD SPLIT WIREFLOW 1")
-![WIREFLOW 2](https://github.com/markab4/split/blob/master/images/Add%20Split%20Part%202.gif?raw=true "ADD SPLIT WIREFLOW 2")
+<p align="center"> 
+<img src="https://github.com/markab4/split/blob/master/images/Add%20Split%20Part%201.gif?raw=true" alt = "WIREFLOW 1>
+<img src="https://github.com/markab4/split/blob/master/images/Add%20Split%20Part%202.gif?raw=true" alt = "WIREFLOW 2>
+</p>
 
 ![CARD 3](https://github.com/markab4/split/blob/master/images/Card%203.png?raw=true)
 
-![WIREFLOW 2](https://github.com/markab4/split/blob/master/images/Add%20Tax.gif?raw=true "ADD TAX WIREFLOW")
+<p align="center"> 
+<img src="https://github.com/markab4/split/blob/master/images/Add%20Tax.gif?raw=true" alt = 'ADD TAX WIREFLOW' >
+</p>
 
 ![CARD 4](https://github.com/markab4/split/blob/master/images/Card%204.png?raw=true)
