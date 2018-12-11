@@ -5,11 +5,7 @@
 ![CARD 2](https://github.com/markab4/split/blob/master/images/Card%202.png?raw=true)
 
 <p align="center"> 
-<img src="https://github.com/markab4/split/blob/master/images/Add%20Split%20Part%201.gif?raw=true" alt = "WIREFLOW 1">
-</p>
-
-<p align="center"> 
-<img src="https://github.com/markab4/split/blob/master/images/Add%20Split%20Part%202.gif?raw=true" alt = "WIREFLOW 2">
+<img src="https://github.com/markab4/split/blob/master/images/Add%20Split.gif?raw=true" alt = "WIREFLOW 1">
 </p>
 
 ![CARD 3](https://github.com/markab4/split/blob/master/images/Card%203.png?raw=true)
